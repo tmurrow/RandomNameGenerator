@@ -7,3 +7,5 @@ Navigate to `RandomNameGenerator\bin\Debug\`
 - Open `Prefixes and Suffixes.xlsx` to change prefixes and suffixes
   - Keep lists sorted alphabetically, copy into respective sheets and save as tab delimited text file
   - `prefixes.txt` and `suffixes.txt` must be separated by newlines, no spaces
+
+May have to open `RandomNameGenerator.sln` and run to generate bin folder
