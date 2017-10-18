@@ -1,5 +1,5 @@
 # Random Name Generator
-_Random Name Generator for Journals of Everlive_  
+_Random Name Generator_  
 
 Navigate to `RandomNameGenerator\bin\Debug\`  
 - Run `RandomNameGenerator.exe`  
